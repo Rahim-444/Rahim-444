@@ -1,6 +1,6 @@
 # 🚀 Belkacemi Abderrahim
 
-**`Jumoir Software Developer | USTHB 2nd Year Student`**
+**`Junior Software Developer | USTHB 2nd Year Student`**
 
 Hello there! I'm Belkacemi Abderrahim, a passionate Jumoir software developer currently in my second year at USTHB. I find joy in exploring every aspect of software, from diving deep into programming algorithms to crafting dynamic web applications using technologies like React.
 
