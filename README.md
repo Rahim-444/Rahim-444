@@ -28,7 +28,8 @@ When I'm not immersed in code, you'll likely find me fine-tuning my Neovim confi
 
 ### 📊 Stats
 
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-444&show_icons=true&theme=tokyonight)
+<!-- ![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-444&show_icons=true&theme=tokyonight) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahim-444&theme=dark)](https://git.io/streak-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
