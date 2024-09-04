@@ -1,8 +1,8 @@
 # 🚀 Belkacemi Abderrahim
 
-**`Junior Software Developer | USTHB 2nd Year Student`**
+**`Junior Software Developer | USTHB 3nd Year Student`**
 
-Hello there! I'm Belkacemi Abderrahim, a passionate Jumoir software developer currently in my Third year at USTHB. I find joy in exploring every aspect of software, from diving deep into programming algorithms to crafting dynamic web applications using technologies like React.
+Hello there! I'm Belkacemi Abderrahim, a passionate Junoir software developer currently in my Third year at USTHB. I find joy in exploring every aspect of software, from diving deep into programming algorithms to crafting dynamic web applications using technologies like React.
 
 When I'm not immersed in code, you'll likely find me fine-tuning my Neovim config :) i love sharing my knowledge and configurations with the community.
 
@@ -28,7 +28,7 @@ When I'm not immersed in code, you'll likely find me fine-tuning my Neovim confi
 
 ### 📊 Stats
 
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-444&show_icons=true&theme=gruvbox)
+![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-444&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
