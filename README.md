@@ -1,6 +1,6 @@
 # 🚀 Belkacemi Abderrahim
 
-**`Junior Software Developer | USTHB 3nd Year Student`**
+**`Software Developer | USTHB 3nd Year Student`**
 
 Hello there! I'm Belkacemi Abderrahim, a passionate Junoir software developer currently in my Third year at USTHB. I find joy in exploring every aspect of software, from diving deep into programming algorithms to crafting dynamic web applications using technologies like React.
 
